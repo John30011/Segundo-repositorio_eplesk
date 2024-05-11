@@ -12,4 +12,5 @@ Teste repositorio sera utlizando  para iniciarlo con un achibo  Readme
 7) confirmar que lo archivo que estan en stage seran enviados a githuh: git commit -m "msaje del comiit "
 8) Subir el commit o los cambios a la nube (git hub) : git push origin <nombre-de-la-rama> 
 9) revisar en la web nuestro repositorio en github y validar que los cambios se han subido 
+10)Utilizar vercel.
 
